@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning Mathematics for Machine Learnig.
 - 💬 Ask me about Mechanical Engineering.
 
-:linkedin:
-
 <!--
 **PedroBiel/PedroBiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
