@@ -3,7 +3,7 @@
 #### I am a mechanical engineer with more than 20 years of experience in structures (mainly metallic) having worked in research, technical office and construction management.
 
 - 🔭 I’m currently exploring the possibilities of Data Science and Machine Learning in structural analysis engineering.
-- ![certificate-icon](https://user-images.githubusercontent.com/17517477/120114071-b4017800-c17d-11eb-8f65-a16a48c1df64.png) :book: I've completed the XSeries Program certificate in **Computational Thinking using Python** offered by MITx.
+- :book: I've completed the XSeries Program certificate in **Computational Thinking using Python** offered by MITx.
 - 🌱 I’m currently learning Mathematics for Machine Learnig.
 - 💬 Ask me about Mechanical Engineering.
 
