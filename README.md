@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro Biel 👋
+### Hi there, I'm Pedro Biel
 
 #### I am a Mechanical Engineer with more than 20 years of experience in structures (mainly steel) having worked in research, technical office and construction management.
 
