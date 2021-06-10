@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Biel
 
-#### I am a Mechanical Engineer with more than 20 years of experience in structures (mainly steel) having worked in research, engineering office and construction management.
+#### I am a Mechanical Engineer with more than 20 years of experience in structures (mainly steel) having worked in research, engineering office and site management.
 
 - 🔭 I’m currently exploring the possibilities of Data Science and Machine Learning in structural analysis engineering.
 - :book: I've completed the XSeries Program certificate in **Computational Thinking using Python** offered by MITx.
