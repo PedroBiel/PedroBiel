@@ -3,8 +3,9 @@
 #### I am a Mechanical Engineer with more than 20 years of experience in structures (mainly steel) having worked in research, engineering office and site management.
 
 - 🔭 I’m currently exploring the possibilities of Data Science and Machine Learning in structural analysis engineering.
+- 🌱 I’m currently learning **Applied Data Science with Python Specialization** offered by University of Michigan at coursera.
 - :book: I've completed the XSeries Program certificate in **Computational Thinking using Python** offered by MITx.
-- 🌱 I’m currently learning Mathematics for Machine Learnig.
+- :book: I’ve studied Mathematics for Machine Learnig.
 - 💬 Ask me about Mechanical Engineering.
 
 <!--
